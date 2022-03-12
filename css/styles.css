@@ -67,6 +67,8 @@ a, a:hover {
 
 .dsmovie-card {
     width: 100%;
+    padding-top: 18x;
+    padding-bottom: 18px;
 }
 
 .dsmovie-card img {
